@@ -157,7 +157,7 @@ Redirecionar para página dos cursos.
 ### ❌ Resultado atual  
 Nenhuma ação executada.
 
-![BUG 07](./evidenciaS/BUG_07.png)
+![BUG 07](./evidencias/BUG_07.png)
 ---
 
 ## 🐞 BUG 08 — Botão “Quero me certificar” redirecionando incorretamente  
@@ -175,7 +175,7 @@ Redirecionar para página interna correta.
 ### ❌ Resultado atual  
 Redireciona para o Google.
 
-![BUG 08](./evidenciaS/BUG_08.png)
+![BUG 08](./evidencias/BUG_08.png)
 
 ---
 
@@ -194,7 +194,7 @@ Abrir canal oficial do YouTube.
 ### ❌ Resultado atual  
 Redireciona para TikTok.
 
-![BUG 09](./evidenciaS/BUG_09.png)
+![BUG 09](./evidencias/BUG_09.png)
 
 ---
 
@@ -213,7 +213,7 @@ Layout responsivo e adaptado à tela.
 ### ❌ Resultado atual  
 Elementos sobrepostos, quebra de grid e rolagem horizontal.
 
-![BUG 010](./evidenciaS/BUG_010.png)
+![BUG 010](./evidencias/BUG_010.png)
 
 ---
 
@@ -241,7 +241,7 @@ Mantendo padronização conforme o design system.
 ### ❌ Resultado atual  
 Os botões apresentam valores diferentes de `height` e `width`, causando inconsistência visual.
 
-![BUG 011](./evidenciaS/BUG_011.png)
+![BUG 011](./evidencias/BUG_011.png)
 
 ---
 
@@ -265,7 +265,7 @@ As imagens devem se adaptar ao tamanho do container utilizando comportamento res
 ### ❌ Resultado atual  
 As imagens ultrapassam o container ou distorcem, causando quebra visual e desalinhamento dos cards.
 
-![BUG 012](./evidenciaS/BUG_012.png)
+![BUG 012](./evidencias/BUG_012.png)
 
 
 ---
@@ -290,7 +290,7 @@ O botão deve seguir o mesmo padrão visual dos demais, incluindo a propriedade 
 ### ❌ Resultado atual  
 Botão apresenta bordas retas, divergindo do padrão visual aplicado aos outros botões.
 
-![BUG 013](./evidenciaS/BUG_013.png)
+![BUG 013](./evidencias/BUG_013.png)
 
 ---
 
